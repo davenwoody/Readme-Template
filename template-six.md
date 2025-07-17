@@ -2,7 +2,7 @@
 
 <!-- 🎉 Custom Banner -->
 <p align="center">
-  <img src="https://your-image-host.com/davenwoody-banner.png" alt="Daven Woody Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/davenwoody/image-assets/refs/heads/main/icon.png" alt="Daven Woody Banner" width="100%" />
 </p>
 
 <!-- 🎉 Typing Animation Header -->
